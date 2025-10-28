@@ -1,8 +1,6 @@
 # 🤖 AI Commit Whisperer  
 *Smart GitHub Commit Summarizer and Insight Generator*
 
-![App Demo Banner](assets/demo-screenshot.png)
-
 ---
 
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
